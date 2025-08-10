@@ -52,8 +52,4 @@ Technologies used in the project:
 
 <h2>🛡️ License:</h2>
 
-This project is licensed under the MIT License.
-
-<h2>💖Like my work?</h2>
-
-If you find this project helpful or inspiring please ⭐ the repo! Your support motivates me to build and share more awesome AI projects. 🚀
+This project is licensed under the MIT License. 
